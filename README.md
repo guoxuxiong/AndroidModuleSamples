@@ -5,4 +5,4 @@
 
 #3.网络请求封装
 
-#4.说明：本项目仅作为记录知识使用，详情请参考（https://github.com/iceCola7/AndroidModuleSamples）
+#4.说明：本项目仅作为记录知识使用，详情请参考（https://github.com/iceCola7/AndroidModuleSamples.git）
